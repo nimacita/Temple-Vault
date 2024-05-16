@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6d2d50b7fd416764980cab7d3aef97eb
+timeCreated: 1473785308
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71806
+  packageName: RoundBall - Complete Game Templete
+  packageVersion: 1.0
+  assetPath: Assets/RoundBall/Scripts/Fading.cs
+  uploadId: 138196
